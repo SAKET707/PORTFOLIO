@@ -25,7 +25,7 @@ export default function Home() {
             production-ready applications.
           </p>
           <a
-            href="#"
+            href="https://github.com/SAKET707/SAKET707/blob/main/SAKET-CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="text-lg s:text-xl m:text-2xl x:text-3xl font-sans tracking-[0.25em] text-ink border border-ink px-6 s:px-8 x:px-10 py-3 x:py-4 hover:bg-ink transition-all duration-300 ease-out cursor-pointer hover:text-cream"
