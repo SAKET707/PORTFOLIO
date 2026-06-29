@@ -35,6 +35,7 @@
 @media (max-width: 767px) {
   :root {
     --color-cream: #fefaf8;
-    --color-forest: #195f60;
+    /* --color-forest: #195f60; */
+    --color-forest: #154f40;
   }
 }
