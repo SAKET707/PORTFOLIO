@@ -31,3 +31,10 @@
   --breakpoint-x: 1440px;
   --breakpoint-xx: 1820px;
 }
+
+@media (max-width: 767px) {
+  :root {
+    --cream: #fefaf8;
+    --forest: #114a3c;
+  }
+}
