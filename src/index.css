@@ -34,7 +34,7 @@
 
 @media (max-width: 767px) {
   :root {
-    --cream: #ff00ff;   /* loud magenta — impossible to miss if it's working */
-    --forest: #ff0000;  /* loud red */
+    --color-cream: #ff00ff;
+    --color-forest: #ff0000;
   }
 }
